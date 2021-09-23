@@ -1,7 +1,7 @@
 # Frontend Mentor - Pod request access landing page
 
-![github repo size](https://img.shields.io/github/repo-size/AliABUHAMRA/card-component)
-![github contributors](https://img.shields.io/github/contributors/AliABUHAMRA/card-component)
+![github repo size](https://img.shields.io/github/repo-size/AliABUHAMRA/Pod-request)
+![github contributors](https://img.shields.io/github/contributors/AliABUHAMRA/Pod-request)
 ![github twiter](https://img.shields.io/twitter/follow/AliAbuhumra?style=social)
 
 <!-- ![podcast preview](./design/desktop-preview.jpg) -->
