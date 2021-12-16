@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Blogr landing page coding challenge](./design/desktop-design.jpg)
+![Blogr landing page coding challenge](./preview.jpg)
 
 ### Links
 
