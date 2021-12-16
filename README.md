@@ -73,8 +73,8 @@ While working through this project, I noticed I still needed to perfect using JS
 
 ## Author
 
-- Website - [Github/Uzoway](https://github.com/aliabuhumra)
-- Frontend Mentor - [@uzoway](https://www.frontendmentor.io/profile/aliabuhumra)
-- Twitter - [@Uzoway\_](https://twitter.com/aliabuhumra)
+- Website - [Github/AliAbuhumra](https://github.com/aliabuhumra)
+- Frontend Mentor - [@AliAbuhumra](https://www.frontendmentor.io/profile/aliabuhumra)
+- Twitter - [@AliAbuhumra](https://twitter.com/aliabuhumra)
 
 Thanks for checking out this project.
