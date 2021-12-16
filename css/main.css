@@ -51,7 +51,7 @@ body::before {
 
 @media (min-width: 768px) {
   body::before {
-    background-image: url(../../assets/tablet/image-host.jpg);
+    background-image: url(../assets/tablet/image-host.jpg);
     opacity: 1;
     left: 37%;
     bottom: 130px;
@@ -60,7 +60,7 @@ body::before {
 
 @media (min-width: 1280px) {
   body::before {
-    background-image: url(../../assets/desktop/image-host.jpg);
+    background-image: url(../assets/desktop/image-host.jpg);
     top: 130px;
     bottom: 130px;
   }
