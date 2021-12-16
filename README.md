@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/blogr-landing-page-using-html-css-and-js-uEuPVH-N4)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/pod-request-access-landing-page-2fvzS4e3i)
 - Live Site URL: [Live site URL](https://blogr-landing-page-eight.vercel.app/)
 
 ## My process
