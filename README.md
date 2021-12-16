@@ -44,28 +44,14 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Desktop-first workflow then Mobile
-- Vanilla JS for mobile navigation toggle
+- Pseudo-element
 
 ### What I learned
 
-The dropdown menu is the highlight of my learning while working through this project. This is something I have never worked on before and had no prior knowledge how to go about it. I had to do a little research (Stackover flow to the rescue... lol). At the end, I was a able to complete the dropdown menu using just HTML and CSS- no JS.
+The ::before and ::after Elements How they work
 
-I faced a little challenge having a background color and a background image for a parent container. Below is a code snippet of how I was able to achieve it.
+I faced a little challenge having a background  and a background image for a parent container. Below is a code snippet of how I was able to achieve it.
 
-```css
-.header {
-  width: 100%;
-  height: 100vh;
-  position: relative;
-  background: url(images/bg-pattern-intro.svg);
-  background-position: center;
-  background-size: 150%;
-  padding: 4rem 10rem;
-  border-bottom-left-radius: 6rem;
-  background-repeat: no-repeat;
-  background-color: hsl(353, 100%, 62%);
-}
-```
 
 ### Continued development
 
